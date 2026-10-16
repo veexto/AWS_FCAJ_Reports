@@ -75,7 +75,7 @@ This report is available in two languages:
 
 ## License
 
-This project is for educational purposes as part of the FCJ Cloud Internship Program.
+This project is for educational purposes as part of the FCAJ Cloud Internship Program.
 
 ---
 
