@@ -85,8 +85,3 @@ This project is for educational purposes as part of the FCJ Cloud Internship Pro
 - [First Cloud Journey](https://www.firstcloudjourney.com/)
 - [AWS Vietnam](https://aws.amazon.com/vi/)
 ---
-
-<p align="center">
-  <b>Made with love by Nguyễn Văn Trường</b><br>
-  <i>FCJ Cloud Intern @ AWS Vietnam</i>
-</p>
