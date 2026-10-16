@@ -1,6 +1,6 @@
-# FCAJ Cloud Intern - Internship Report
+# FCJ Cloud Intern - Internship Report
 
-> Internship Report documenting the journey of an FCAJ Cloud Intern at Amazon Web Services Vietnam. This portfolio showcases hands-on experience with AWS cloud technologies, translated technical blogs, workshop contributions, and professional development in Cloud Computing.
+> Internship Report documenting the journey of an FCJ Cloud Intern at Amazon Web Services Vietnam. This portfolio showcases hands-on experience with AWS cloud technologies, translated technical blogs, workshop contributions, and professional development in Cloud Computing.
 
 **Live Demo:** 
 ---
